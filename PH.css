@@ -1,0 +1,17 @@
+
+
+body{
+    background-color: dodgerblue;
+    
+}
+.titulo{
+    color: black;
+    font-size: 20pix;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#paragrafo{
+    color: black;
+    font-size: 15pix;
+    text-align: center;
+}
