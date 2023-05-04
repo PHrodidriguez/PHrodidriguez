@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title> PH instalações</title>
+    <link 
+    rel="stylesheet"
+    href="PH.css"
+</head>
+<body>
+    <h1 class="titulo">Está precisando de montador de móveis?
+
+  <p id="paragrafo"> Hoje em dia, encontrar mão de obra qualificada tem sido uma tarefa difícil mas não se preocupe, nós simplificamos para você!
+  Serviço de alta qualidade com preço justo e formas fáceis de pagamento!</p>
+  <img src="logo ph.jpg">
+   
+  <p class="paragrafo3">Para nos contatar utilize o whatssap:51980519901</p>
+  <p class="paragrafo2"> Ou pelo email:pedrorodriguezmp19@gmail.com</p>
+  <img src="phmontagem2.jpg"
+</body>
+</html>
