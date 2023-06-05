@@ -1,5 +1,5 @@
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Olá+meus+queridos!+Eu+sou+o+Pedro+Rodiguez" /></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Olá+meus+queridos!+Eu+sou+o+Pedro+Rodriguez" /></a>
 
 - 🌱Estou cursando Análise e desenvolvimento de sistemas
 - 💻Tenho interesse em trabalhar no Front-end
