@@ -19,6 +19,6 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 	<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,javascript,php,css,html,node,githubactions" />
+    <img src="https://skillicons.dev/icons?i=git,react,githubactionsjavascript,php,css,html,node.js,bash" />
   </a>
 </p>
