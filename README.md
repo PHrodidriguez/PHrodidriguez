@@ -1,9 +1,14 @@
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Olá+meus+queridos!+Eu+sou+o+Pedro+Rodriguez" /></a>
 
-- 🌱Estou cursando Análise e desenvolvimento de sistemas
-- 💻Tenho interesse em trabalhar no Front-end
-- 👀Atualmente estou procurando por uma vaga de estágio
+
+
+<div align="center">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHrodidriguez&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
 <a href="https://www.linkedin.com/in/pedro-rodriguez-3b0262223/" target="_blank">
  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
