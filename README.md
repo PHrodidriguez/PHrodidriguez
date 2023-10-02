@@ -9,7 +9,7 @@
 </div>
 <br></br>
 <h1>Connect with me:</h1>
-<a href="www.linkedin.com/in/pedro-rodriguez-3b0262223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bacem ben ammar" height="50" width="50" /></a><br/><br/>
+<a href="https://linkedin.com/in/pedro-rodriguez-3b0262223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bacem ben ammar" height="50" width="50" /></a><br/><br/>
  <a href="https://instagram.com/ph.alemao_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bacemben_ammar" height="50" width="50" /></a>
 </p>   
  
